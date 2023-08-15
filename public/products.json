@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Car cover universal",
+        "picture": "https://www.autodeal.com.ph/custom/blog-post/header/wheel-bearing-62398318f381f.jpg",
+        "price": 12
+    },
+    {
+        "id": 2,
+        "title": "Car NBR Rabar",
+        "picture": "https://www.lideflex.com/uploads/40e53f2e.jpg",
+        "price": 40
+    },
+    {
+        "id": 3,
+        "title": "Car wash detailing kit",
+        "picture": "https://media.napacanada.com/is/image/GenuinePartsCompany/131343623?fmt=jpg&qlt=70",
+        "price": 35
+    },
+    {
+        "id": 4,
+        "title": "Car colour spray",
+        "picture": "https://images.oreillyauto.com/parts/img/extralarge/scp/a01.jpg",
+        "price": 21
+    },
+    {
+        "id": 5,
+        "title": "Cat tester pro",
+        "picture": "https://m.media-amazon.com/images/I/61lijFNAojL._AC_UF894,1000_QL80_.jpg",
+        "price": 32
+    },
+    {
+        "id": 6,
+        "title": "Generic matal RC",
+        "picture": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/64/065129/1.jpg?5408",
+        "price": 45
+    }
+]
